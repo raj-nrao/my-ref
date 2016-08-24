@@ -1,0 +1,11 @@
+Q What happens when you initialize a repository? Why do you need to do it?
+
+A init is required to enable git to track your files
+
+Q How is the staging area different from the working directory? What value does it offer?
+
+A Working directory may contain lot more changes but staging area contains only changes that will be committed. 
+
+
+
+
